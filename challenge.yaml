@@ -1,0 +1,7 @@
+slug: smali-safari
+title: Smali Safari
+category: reverse engineering
+difficulty: medium
+points: 300
+codec: fernet
+repo_url: https://github.com/sparflag/smali-safari
